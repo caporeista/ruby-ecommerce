@@ -1,4 +1,4 @@
-d
+
 <a href="https://spreecommerce.org" target="_blank" rel="follow"><img src="spree_logo.png" width="261" alt="Spree Commerce"></a>
 
 * Join our Slack at [slack.spreecommerce.org](http://slack.spreecommerce.org/)
